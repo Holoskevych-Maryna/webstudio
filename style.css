@@ -140,7 +140,9 @@
     margin-top: 100px;
 }
 .content-icon{
-
+    display: flex;
+    /* justify-content: space-evenly; */
+    align-items: baseline;
 }
 .team{
     background: #F5F4FA;
